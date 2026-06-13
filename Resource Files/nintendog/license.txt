@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nintendog 2 Smash bros ultimate
+* source:	https://sketchfab.com/3d-models/nintendog-2-smash-bros-ultimate-f93f71de491a4bfc8cc815dd96797b69
+* author:	thegageinator (https://sketchfab.com/thegageinator)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nintendog 2 Smash bros ultimate" (https://sketchfab.com/3d-models/nintendog-2-smash-bros-ultimate-f93f71de491a4bfc8cc815dd96797b69) by thegageinator (https://sketchfab.com/thegageinator) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
